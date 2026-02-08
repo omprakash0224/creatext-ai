@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Auth-Clerk-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database-Neon%20Postgres-00e599?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Payments-Razorpay-02042b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
